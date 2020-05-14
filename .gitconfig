@@ -1,0 +1,12 @@
+[user]
+	name = Eamon Caton
+	email = git@etcaton.dev
+	signingkey = 0x2545B9605DA72E9A
+[commit]
+	gpgsign = true
+[url "ssh://git@github.com/"]
+	insteadOf = https://github.com/
+[core]
+	autocrlf = input
+# Bite me
+	editor = nano
